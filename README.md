@@ -1,8 +1,8 @@
 ## Hi, I'm Pratham Kohli 👋
 ----
 
-- 👨🏻‍💻 Software Engineer sharing about my journey and learnings in Tech <br/>
-- 🎨 Creating Content (Videos & Posts) about Software Engineering and Tech, checkout my Insta and LinkedIn profile below 👇🏻
+- 👨🏻‍💻 Software Engineer sharing my journey and learnings in Tech <br/>
+- 🎨 Creating Content (Videos & Posts) about Software Engineering and Tech, checkout my Insta and LinkedIn profile below 👇🏻 <br/>
 - ❤️ 300k+ Followers across Insta & LinkedIn
 <!--
 **prk21/prk21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
