@@ -1,4 +1,4 @@
-## Hi I'm Pratham Kohli 👋
+## Hi, I'm Pratham Kohli 👋
 ----
 
 - 👨🏻‍💻 Software Engineer sharing about my journey and learnings in Tech <br/>
