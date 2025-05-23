@@ -3,6 +3,7 @@
 
 - 👨🏻‍💻 Software Engineer sharing about my journey and learnings in Tech <br/>
 - 🎨 Creating Content (Videos & Posts) about Software Engineering and Tech, checkout out Insta and LinkedIn
+- ❤️ 300k+ Followers across Insta & LinkedIn
 <!--
 **prk21/prk21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
